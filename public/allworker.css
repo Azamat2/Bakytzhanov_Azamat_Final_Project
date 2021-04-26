@@ -1,0 +1,37 @@
+body {
+	min-width: 1400px;
+	background-color: rgb(231, 196, 108);
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+#start {
+	margin-top: 250px;
+}
+
+.header {
+	display: flex;
+	justify-content: space-around;
+	font-size: 30px;
+}
+
+table, th, td {
+	border: 2px solid black;
+}
+
+td {
+	width: 300px;
+    height: 25px;
+	text-align: center;
+}
+
+table {
+	margin-top: 27px;
+}
